@@ -59,7 +59,7 @@ OVA 파일 가져오기 -> 네트워크: 호스트전용 -> nmap 스캐닝으로
 ---
 ## :메모: 워크스루 다운로드
 프로젝트의 상세 워크스루는 아래 링크에서 다운로드할 수 있습니다:
-:오른쪽을_가리키는_손_모양: 📄 [워크스루 다운로드 (DOCX)](docs/EN_CTF%20walkthrough%20(1).docx)
+:오른쪽을_가리키는_손_모양: [워크스루 다운로드 (DOCX)](https://raw.githubusercontent.com/byungwook99/CTF_PIXEL/main/EN_CTF%20walkthrough%20%281%29.docx)
 ---
 ## :열린_파일_폴더: 디렉토리 구조
 ```bash
